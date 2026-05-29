@@ -87,20 +87,6 @@ Built interactive Power BI dashboards to visualize:
 * High-risk activity insights
 
 ---
-
-## Repository Structure
-
-```text
-Behavioral-Financial-Analytics-Fraud-Intelligence-Platform/
-│
-├── data/
-├── notebooks/
-├── dashboards/
-├── images/
-├── README.md
-└── requirements.txt
-```
-
 ---
 
 ## Results & Insights
